@@ -1,0 +1,40 @@
+{
+  "name": "neon-programming-theme",
+  "displayName": "Neon Programming theme",
+  "description": "A great cold night Neon Theme over a deep blue background with a very good contrast in order to be able to see all around you and will help you tu identify easier your code.",
+  "version": "0.0.1",
+  "publisher": "Krezitech",
+  "icon": "icon/klogo.png",
+	"license": "CC",
+  "author": {
+		"name": "David Adrian Ochoa",
+		"email": "krezipedtech@gmail.com",
+		"url": "https://github.com/Krezitech/"
+	},
+	"engines": {
+		"vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+		"theme",
+		"dark",
+		"neon-theme",
+		"purple-theme",
+		"night-theme"
+	],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Programming theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Programming theme-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "url": "https://github.com/Krezitech/Neon-Theme",
+    "type": "git"
+  }
+}
