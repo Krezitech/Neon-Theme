@@ -24,11 +24,9 @@ Enjoy my little share
 
  ![Neon_Night's_1](https://github.com/Krezitech/Imagenes/blob/main/themes/dark.png?raw=true)
 
-
 ## Snaps Light
 
 ![Neon_Day's_1](https://github.com/Krezitech/Imagenes/blob/main/themes/light.png?raw=true)
-
 
 ## Getting full experience
 
