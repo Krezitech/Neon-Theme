@@ -1,9 +1,13 @@
-# Change Log
+# Neon programming Theme Change Log
 
 All notable changes to the "neon-programming-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.3 (October 8, 2023)
+- Reference the images to new path
+- "debugIcon" colors removed
+
+# 1.1.0 (October 10, 2023)
+- A light theme
 
 ## [Unreleased]
-
-- Initial release
+- More colors

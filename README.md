@@ -4,11 +4,13 @@
 
 A great cold night **Neon** Theme over a deep blue background with a very good contrast in order to be able to see all around you and will help you tu identify easier your code.
 
+And a fine light silver/wood Theme for a light theme
+
 Enjoy my little share
 
 ## Themes available
 
-At the moment only **Neon Programming Theme** is aviable, will be working on more themes for the future.
+**Neon Programming Theme** is aviable with dark and light modes, will be working on more themes for the future.
 
 ## Installation
 
@@ -18,11 +20,15 @@ At the moment only **Neon Programming Theme** is aviable, will be working on mor
 4. Open the **Command Palette** with Ctrl + Shift + P or ⇧ + ⌘ + P
 5. Select **Preferences: Color Theme** and choose Neon Night's Deep Blue & Purple Theme.
 
-## Snaps
+## Snaps Dark
 
- ![Neon_Night's_1](https://github.com/Krezitech/Markdown/blob/main/Documentacion/1.jpeg?raw=true)
- ![Neon_Night's_1](https://github.com/Krezitech/Markdown/blob/main/Documentacion/1.jpeg?raw=true)
- ![Neon_Night's_1](https://github.com/Krezitech/Markdown/blob/main/Documentacion/3.jpeg?raw=true)
+ ![Neon_Night's_1](https://github.com/Krezitech/Imagenes/blob/main/themes/dark.png?raw=true)
+
+
+## Snaps Light
+
+![Neon_Day's_1](https://github.com/Krezitech/Imagenes/blob/main/themes/light.png?raw=true)
+
 
 ## Getting full experience
 
